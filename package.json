@@ -1,0 +1,15 @@
+{
+  "name": "js-automat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "C_Main.js",
+  "scripts": {
+    "server": "node Js++Server.js",
+    "dev": "nodemon --ignore ./project ./Js++Server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
